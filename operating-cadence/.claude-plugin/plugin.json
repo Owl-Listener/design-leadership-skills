@@ -1,0 +1,12 @@
+{
+  "name": "operating-cadence",
+  "version": "1.0.0",
+  "description": "Run the operating system: design reviews at scale, planning cadence, decision frameworks, delegation, and operating rhythm.",
+  "author": {
+    "name": "MC Dean",
+    "url": "https://marieclairedean.substack.com/"
+  },
+  "keywords": ["cadence", "review", "planning", "decision", "delegation", "operating-rhythm"],
+  "homepage": "https://github.com/Owl-Listener/design-leadership-skills",
+  "license": "MIT"
+}
