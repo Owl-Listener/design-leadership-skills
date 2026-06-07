@@ -1,0 +1,12 @@
+{
+  "name": "people-management",
+  "version": "1.0.0",
+  "description": "Manage and grow people: 1:1s, feedback, growth plans, performance reviews, career ladders, and difficult conversations.",
+  "author": {
+    "name": "MC Dean",
+    "url": "https://marieclairedean.substack.com/"
+  },
+  "keywords": ["management", "1-on-1", "feedback", "growth", "performance", "career"],
+  "homepage": "https://github.com/Owl-Listener/design-leadership-skills",
+  "license": "MIT"
+}
