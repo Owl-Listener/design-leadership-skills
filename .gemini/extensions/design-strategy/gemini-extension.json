@@ -1,0 +1,13 @@
+{
+  "name": "design-strategy",
+  "version": "1.0.0",
+  "description": "Set direction: design vision, strategy documents, org-level design principles, investment cases, and portfolio prioritisation.",
+  "author": {
+    "name": "MC Dean",
+    "url": "https://marieclairedean.substack.com/"
+  },
+  "keywords": ["strategy", "vision", "principles", "investment", "prioritisation", "direction"],
+  "homepage": "https://github.com/Owl-Listener/design-leadership-skills",
+  "license": "MIT",
+  "contextFileName": "GEMINI.md"
+}

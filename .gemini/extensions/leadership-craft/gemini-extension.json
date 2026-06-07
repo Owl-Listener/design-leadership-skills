@@ -1,0 +1,13 @@
+{
+  "name": "leadership-craft",
+  "version": "1.0.0",
+  "description": "Lead yourself: self-leadership, change leadership, conflict resolution, mentorship, and leadership ethics.",
+  "author": {
+    "name": "MC Dean",
+    "url": "https://marieclairedean.substack.com/"
+  },
+  "keywords": ["self-leadership", "change", "conflict", "mentorship", "ethics", "craft"],
+  "homepage": "https://github.com/Owl-Listener/design-leadership-skills",
+  "license": "MIT",
+  "contextFileName": "GEMINI.md"
+}
