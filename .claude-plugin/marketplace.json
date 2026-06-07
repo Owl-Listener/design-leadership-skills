@@ -1,0 +1,48 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "design-leadership-skills",
+  "version": "1.0.0",
+  "description": "Design Leadership Skills Collection: structured AI workflows for leading design. Domain-specific skills and chained workflows across 6 plugins — from managing people to building teams, setting strategy, influencing the org, running the operating cadence, and the craft of leadership itself.",
+  "owner": {
+    "name": "MC Dean",
+    "url": "https://marieclairedean.substack.com/"
+  },
+  "plugins": [
+    {
+      "name": "people-management",
+      "description": "Manage and grow people: 1:1s, feedback, growth plans, performance reviews, career ladders, and difficult conversations.",
+      "source": "./people-management",
+      "category": "design"
+    },
+    {
+      "name": "team-building",
+      "description": "Build the team: hiring loops, job specs, portfolio review, onboarding, team topology, and psychological safety.",
+      "source": "./team-building",
+      "category": "design"
+    },
+    {
+      "name": "design-strategy",
+      "description": "Set direction: design vision, strategy documents, org-level design principles, investment cases, and portfolio prioritisation.",
+      "source": "./design-strategy",
+      "category": "design"
+    },
+    {
+      "name": "org-influence",
+      "description": "Influence the organisation: executive narrative, influence mapping, design advocacy, securing resources, and managing up.",
+      "source": "./org-influence",
+      "category": "design"
+    },
+    {
+      "name": "operating-cadence",
+      "description": "Run the operating system: design reviews at scale, planning cadence, decision frameworks, delegation, and operating rhythm.",
+      "source": "./operating-cadence",
+      "category": "design"
+    },
+    {
+      "name": "leadership-craft",
+      "description": "Lead yourself: self-leadership, change leadership, conflict resolution, mentorship, and leadership ethics.",
+      "source": "./leadership-craft",
+      "category": "design"
+    }
+  ]
+}
