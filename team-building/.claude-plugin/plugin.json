@@ -1,0 +1,12 @@
+{
+  "name": "team-building",
+  "version": "1.0.0",
+  "description": "Build the team: hiring loops, job specs, portfolio review, onboarding, team topology, and psychological safety.",
+  "author": {
+    "name": "MC Dean",
+    "url": "https://marieclairedean.substack.com/"
+  },
+  "keywords": ["hiring", "team", "onboarding", "interview", "portfolio", "culture"],
+  "homepage": "https://github.com/Owl-Listener/design-leadership-skills",
+  "license": "MIT"
+}
