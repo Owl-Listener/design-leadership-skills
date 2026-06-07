@@ -1,0 +1,12 @@
+{
+  "name": "org-influence",
+  "version": "1.0.0",
+  "description": "Influence the organisation: executive narrative, influence mapping, design advocacy, securing resources, and managing up.",
+  "author": {
+    "name": "MC Dean",
+    "url": "https://marieclairedean.substack.com/"
+  },
+  "keywords": ["influence", "executive", "advocacy", "stakeholder", "narrative", "managing-up"],
+  "homepage": "https://github.com/Owl-Listener/design-leadership-skills",
+  "license": "MIT"
+}
