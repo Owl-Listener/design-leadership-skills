@@ -1,5 +1,12 @@
 # Design Leadership Skills Collection
 
+> **Part of the [Designer Skills suite](https://github.com/Owl-Listener/designer-skills).**
+> Install this collection and four more with one command in Claude Code:
+>
+> `/plugin marketplace add Owl-Listener/designer-skills`
+>
+> This repo still works on its own. The suite just gives everyone one front door.
+
 Agentic skills, commands, and plugins for design leadership — from people and teams to strategy, influence, operating cadence, and the craft of leading. **32 skills** and **12 commands** across **6 plugins** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code).
 
 ## Plugins
